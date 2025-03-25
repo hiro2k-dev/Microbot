@@ -1,2 +1,10 @@
-this is Mircobot project
-first day on 25 mar 2025 by Hiro
+# Microbot
+
+
+## Setup
+```
+git clone https://github.com/hiro2k-dev/Microbot.git
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
